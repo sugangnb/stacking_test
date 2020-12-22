@@ -1,0 +1,11 @@
+The best value for eta is 0.3, the acc is 0.20703.
+The best value for max_depth is 8, the acc is 0.2069.
+The best value for rate_drop is 1, the acc is 0.2069.
+The best value for subsample is 1, the acc is 0.20668999999999998.
+The best value for gamma is 5, the acc is 0.20668999999999998.
+The best value for colsample_bytree is 1, the acc is 0.20668999999999998.
+The best value for sample_type is weighted, the acc is 0.20668999999999998.
+The best value for min_child_weight is 15, the acc is 0.20668999999999998.
+
+
+     

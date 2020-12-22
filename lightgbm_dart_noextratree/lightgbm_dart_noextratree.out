@@ -1,0 +1,169 @@
+The minimum is attained in round 976
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 988
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 998
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 1001
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 989
+Finished loading model, total used 1000 iterations
+acc result is 0.21245000000000003,0.21235000000000004,0.20494999999999997,0.20835000000000004,0.20914999999999995
+change_param is learning_rate, change_value is 0.03
+time spend is 870231
+The minimum is attained in round 950
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 998
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 811
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 832
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 886
+Finished loading model, total used 1000 iterations
+acc result is 0.2107,0.20850000000000002,0.20425000000000004,0.20684999999999998,0.20620000000000005
+change_param is learning_rate, change_value is 0.05
+time spend is 265563
+The minimum is attained in round 978
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 968
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 963
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 735
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 827
+Finished loading model, total used 1000 iterations
+acc result is 0.20930000000000004,0.2077,0.20320000000000005,0.20594999999999997,0.20530000000000004
+change_param is learning_rate, change_value is 0.07
+time spend is 784627
+The minimum is attained in round 979
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 823
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 614
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 957
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 695
+Finished loading model, total used 1000 iterations
+acc result is 0.20884999999999998,0.20855,0.20320000000000005,0.20545000000000002,0.20640000000000003
+change_param is learning_rate, change_value is 0.09
+time spend is 69334
+The minimum is attained in round 790
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 623
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 476
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 638
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 759
+Finished loading model, total used 1000 iterations
+acc result is 0.20955000000000001,0.20984999999999998,0.20494999999999997,0.20555,0.20494999999999997
+change_param is learning_rate, change_value is 0.1
+time spend is 480928
+The minimum is attained in round 978
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 968
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 963
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 735
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 827
+Finished loading model, total used 1000 iterations
+acc result is 0.20930000000000004,0.2077,0.20320000000000005,0.20594999999999997,0.20530000000000004
+change_param is max_depth, change_value is -1
+time spend is 843458
+The minimum is attained in round 994
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 991
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 941
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 969
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 846
+Finished loading model, total used 1000 iterations
+acc result is 0.21985,0.21914999999999996,0.2107,0.21355000000000002,0.21665
+change_param is max_depth, change_value is 3
+time spend is 319014
+The minimum is attained in round 986
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 989
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 904
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 997
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 954
+Finished loading model, total used 1000 iterations
+acc result is 0.21540000000000004,0.21499999999999997,0.20755,0.21055000000000001,0.21209999999999996
+change_param is max_depth, change_value is 4
+time spend is 403162
+The minimum is attained in round 965
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 977
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 993
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 995
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 952
+Finished loading model, total used 1000 iterations
+acc result is 0.21335000000000004,0.21240000000000003,0.2057,0.20809999999999995,0.20989999999999998
+change_param is max_depth, change_value is 5
+time spend is 220579
+The minimum is attained in round 950
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 977
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 974
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 888
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 1001
+Finished loading model, total used 1000 iterations
+acc result is 0.20994999999999997,0.21025000000000005,0.20515000000000005,0.20679999999999998,0.2086
+change_param is max_depth, change_value is 6
+time spend is 543829
+The minimum is attained in round 972
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 870
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 998
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 971
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 931
+Finished loading model, total used 1000 iterations
+acc result is 0.21045000000000003,0.20975,0.20340000000000003,0.20604999999999996,0.20750000000000002
+change_param is max_depth, change_value is 7
+time spend is 884350
+The minimum is attained in round 997
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 867
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 843
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 967
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 981
+Finished loading model, total used 1000 iterations
+acc result is 0.21114999999999995,0.21150000000000002,0.20594999999999997,0.20725000000000005,0.20720000000000005
+change_param is num_leaves, change_value is 16
+time spend is 856059
+The minimum is attained in round 978
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 968
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 963
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 735
+Finished loading model, total used 1000 iterations
+The minimum is attained in round 827
+Finished loading model, total used 1000 iterations
+acc result is 0.20930000000000004,0.2077,0.20320000000000005,0.20594999999999997,0.20530000000000004
+change_param is num_leaves, change_value is 31
+time spend is 920061

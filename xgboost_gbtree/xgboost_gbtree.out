@@ -1,0 +1,328 @@
+The minimum is attained in round 1978
+The minimum is attained in round 1922
+The minimum is attained in round 1998
+The minimum is attained in round 1972
+The minimum is attained in round 1963
+acc result is 0.22109999999999996,0.21909999999999996,0.21235000000000004,0.21540000000000004,0.21819999999999995
+change_param is eta, change_value is 0.01
+time spend is 319748
+The minimum is attained in round 1905
+The minimum is attained in round 1829
+The minimum is attained in round 1888
+The minimum is attained in round 1587
+The minimum is attained in round 1806
+acc result is 0.2106,0.21130000000000004,0.20489999999999997,0.20765,0.20925000000000005
+change_param is eta, change_value is 0.05
+time spend is 462274
+The minimum is attained in round 1910
+The minimum is attained in round 1811
+The minimum is attained in round 1193
+The minimum is attained in round 1046
+The minimum is attained in round 1704
+acc result is 0.20699999999999996,0.21004999999999996,0.20284999999999997,0.20775,0.20775
+change_param is eta, change_value is 0.1
+time spend is 533869
+The minimum is attained in round 1756
+The minimum is attained in round 1304
+The minimum is attained in round 853
+The minimum is attained in round 841
+The minimum is attained in round 1844
+acc result is 0.20820000000000005,0.21040000000000003,0.20384999999999998,0.20750000000000002,0.20845000000000002
+change_param is eta, change_value is 0.15
+time spend is 881422
+The minimum is attained in round 1147
+The minimum is attained in round 870
+The minimum is attained in round 1883
+The minimum is attained in round 1029
+The minimum is attained in round 1770
+acc result is 0.20845000000000002,0.20799999999999996,0.20335000000000003,0.20689999999999997,0.20845000000000002
+change_param is eta, change_value is 0.2
+time spend is 696897
+The minimum is attained in round 1042
+The minimum is attained in round 1135
+The minimum is attained in round 1308
+The minimum is attained in round 683
+The minimum is attained in round 1376
+acc result is 0.20904999999999996,0.21030000000000004,0.20399999999999996,0.20755,0.20965
+change_param is eta, change_value is 0.25
+time spend is 51950
+The minimum is attained in round 1595
+The minimum is attained in round 540
+The minimum is attained in round 555
+The minimum is attained in round 679
+The minimum is attained in round 539
+acc result is 0.2097,0.21340000000000003,0.20475,0.20809999999999995,0.20875
+change_param is eta, change_value is 0.3
+time spend is 874880
+The minimum is attained in round 1835
+The minimum is attained in round 369
+The minimum is attained in round 543
+The minimum is attained in round 656
+The minimum is attained in round 607
+acc result is 0.20835000000000004,0.20955000000000001,0.20140000000000002,0.20565,0.20955000000000001
+change_param is max_depth, change_value is 4
+time spend is 945819
+The minimum is attained in round 340
+The minimum is attained in round 642
+The minimum is attained in round 597
+The minimum is attained in round 175
+The minimum is attained in round 279
+acc result is 0.20984999999999998,0.21120000000000005,0.20209999999999995,0.20675,0.20835000000000004
+change_param is max_depth, change_value is 5
+time spend is 211708
+The minimum is attained in round 326
+The minimum is attained in round 149
+The minimum is attained in round 312
+The minimum is attained in round 414
+The minimum is attained in round 245
+acc result is 0.2086,0.2116,0.20515000000000005,0.20950000000000002,0.2107
+change_param is max_depth, change_value is 6
+time spend is 783582
+The minimum is attained in round 194
+The minimum is attained in round 88
+The minimum is attained in round 179
+The minimum is attained in round 310
+The minimum is attained in round 201
+acc result is 0.21004999999999996,0.21245000000000003,0.20520000000000005,0.20909999999999995,0.20984999999999998
+change_param is max_depth, change_value is 7
+time spend is 84981
+The minimum is attained in round 131
+The minimum is attained in round 84
+The minimum is attained in round 268
+The minimum is attained in round 107
+The minimum is attained in round 167
+acc result is 0.21050000000000002,0.21519999999999995,0.2047,0.20975,0.21025000000000005
+change_param is max_depth, change_value is 8
+time spend is 887010
+The minimum is attained in round 1835
+The minimum is attained in round 369
+The minimum is attained in round 543
+The minimum is attained in round 656
+The minimum is attained in round 607
+acc result is 0.20835000000000004,0.20955000000000001,0.20140000000000002,0.20565,0.20955000000000001
+change_param is rate_drop, change_value is 0
+time spend is 420876
+The minimum is attained in round 1835
+The minimum is attained in round 369
+The minimum is attained in round 543
+The minimum is attained in round 656
+The minimum is attained in round 607
+acc result is 0.20835000000000004,0.20955000000000001,0.20140000000000002,0.20565,0.20955000000000001
+change_param is rate_drop, change_value is 0.5
+time spend is 55374
+The minimum is attained in round 1835
+The minimum is attained in round 369
+The minimum is attained in round 543
+The minimum is attained in round 656
+The minimum is attained in round 607
+acc result is 0.20835000000000004,0.20955000000000001,0.20140000000000002,0.20565,0.20955000000000001
+change_param is rate_drop, change_value is 1
+time spend is 515288
+The minimum is attained in round 569
+The minimum is attained in round 309
+The minimum is attained in round 600
+The minimum is attained in round 359
+The minimum is attained in round 514
+acc result is 0.21099999999999997,0.21250000000000002,0.20489999999999997,0.20840000000000003,0.2108
+change_param is subsample, change_value is 0.5
+time spend is 785740
+The minimum is attained in round 809
+The minimum is attained in round 509
+The minimum is attained in round 946
+The minimum is attained in round 415
+The minimum is attained in round 632
+acc result is 0.20765,0.21184999999999998,0.20545000000000002,0.20879999999999999,0.21135000000000004
+change_param is subsample, change_value is 0.6
+time spend is 780784
+The minimum is attained in round 727
+The minimum is attained in round 700
+The minimum is attained in round 575
+The minimum is attained in round 530
+The minimum is attained in round 784
+acc result is 0.20925000000000005,0.2107,0.2036,0.20735000000000003,0.2098
+change_param is subsample, change_value is 0.7
+time spend is 29413
+The minimum is attained in round 1835
+The minimum is attained in round 369
+The minimum is attained in round 543
+The minimum is attained in round 656
+The minimum is attained in round 607
+acc result is 0.20835000000000004,0.20955000000000001,0.20140000000000002,0.20565,0.20955000000000001
+change_param is subsample, change_value is 0.8
+time spend is 486278
+The minimum is attained in round 953
+The minimum is attained in round 947
+The minimum is attained in round 823
+The minimum is attained in round 611
+The minimum is attained in round 639
+acc result is 0.20865,0.20779999999999998,0.20245000000000002,0.20584999999999998,0.2087
+change_param is subsample, change_value is 0.9
+time spend is 732770
+The minimum is attained in round 959
+The minimum is attained in round 505
+The minimum is attained in round 331
+The minimum is attained in round 515
+The minimum is attained in round 708
+acc result is 0.20835000000000004,0.20930000000000004,0.20330000000000004,0.20650000000000002,0.20804999999999996
+change_param is subsample, change_value is 1
+time spend is 430203
+The minimum is attained in round 953
+The minimum is attained in round 947
+The minimum is attained in round 823
+The minimum is attained in round 611
+The minimum is attained in round 639
+acc result is 0.20865,0.20779999999999998,0.20245000000000002,0.20584999999999998,0.2087
+change_param is gamma, change_value is 0
+time spend is 59468
+The minimum is attained in round 883
+The minimum is attained in round 1358
+The minimum is attained in round 1538
+The minimum is attained in round 1292
+The minimum is attained in round 1224
+acc result is 0.20830000000000004,0.21125000000000005,0.20399999999999996,0.20694999999999997,0.20945000000000003
+change_param is gamma, change_value is 1
+time spend is 713258
+The minimum is attained in round 1965
+The minimum is attained in round 1077
+The minimum is attained in round 1055
+The minimum is attained in round 1955
+The minimum is attained in round 1877
+acc result is 0.20989999999999998,0.21184999999999998,0.2056,0.20855,0.21050000000000002
+change_param is gamma, change_value is 2
+time spend is 640401
+The minimum is attained in round 1321
+The minimum is attained in round 968
+The minimum is attained in round 1880
+The minimum is attained in round 1466
+The minimum is attained in round 1742
+acc result is 0.21604999999999996,0.2168,0.2076,0.21130000000000004,0.21540000000000004
+change_param is gamma, change_value is 3
+time spend is 132783
+The minimum is attained in round 1660
+The minimum is attained in round 1902
+The minimum is attained in round 1085
+The minimum is attained in round 1989
+The minimum is attained in round 1663
+acc result is 0.21755000000000002,0.21865,0.21145000000000003,0.21120000000000005,0.2146
+change_param is gamma, change_value is 4
+time spend is 111030
+The minimum is attained in round 1317
+The minimum is attained in round 1722
+The minimum is attained in round 1789
+The minimum is attained in round 604
+The minimum is attained in round 1951
+acc result is 0.22145000000000004,0.21965,0.21199999999999997,0.21440000000000003,0.21735000000000004
+change_param is gamma, change_value is 5
+time spend is 151530
+The minimum is attained in round 962
+The minimum is attained in round 1047
+The minimum is attained in round 1046
+The minimum is attained in round 1154
+The minimum is attained in round 479
+acc result is 0.20779999999999998,0.21065,0.20335000000000003,0.2096,0.20750000000000002
+change_param is colsample_bytree, change_value is 0.3
+time spend is 39250
+The minimum is attained in round 1499
+The minimum is attained in round 734
+The minimum is attained in round 644
+The minimum is attained in round 633
+The minimum is attained in round 834
+acc result is 0.20714999999999995,0.21030000000000004,0.20255,0.2087,0.20820000000000005
+change_param is colsample_bytree, change_value is 0.4
+time spend is 936559
+The minimum is attained in round 1282
+The minimum is attained in round 536
+The minimum is attained in round 1289
+The minimum is attained in round 967
+The minimum is attained in round 1109
+acc result is 0.20879999999999999,0.21189999999999998,0.20235000000000003,0.20765,0.20909999999999995
+change_param is colsample_bytree, change_value is 0.5
+time spend is 698630
+The minimum is attained in round 1321
+The minimum is attained in round 540
+The minimum is attained in round 1155
+The minimum is attained in round 1098
+The minimum is attained in round 385
+acc result is 0.20804999999999996,0.21099999999999997,0.2027,0.20784999999999998,0.20945000000000003
+change_param is colsample_bytree, change_value is 0.6
+time spend is 616139
+The minimum is attained in round 1502
+The minimum is attained in round 596
+The minimum is attained in round 1574
+The minimum is attained in round 829
+The minimum is attained in round 637
+acc result is 0.20765,0.20945000000000003,0.20230000000000004,0.20684999999999998,0.20950000000000002
+change_param is colsample_bytree, change_value is 0.7
+time spend is 778136
+The minimum is attained in round 953
+The minimum is attained in round 947
+The minimum is attained in round 823
+The minimum is attained in round 611
+The minimum is attained in round 639
+acc result is 0.20865,0.20779999999999998,0.20245000000000002,0.20584999999999998,0.2087
+change_param is colsample_bytree, change_value is 0.8
+time spend is 861493
+The minimum is attained in round 549
+The minimum is attained in round 969
+The minimum is attained in round 1364
+The minimum is attained in round 615
+The minimum is attained in round 663
+acc result is 0.20930000000000004,0.21075,0.20355,0.20850000000000002,0.20920000000000005
+change_param is colsample_bytree, change_value is 0.9
+time spend is 330264
+The minimum is attained in round 1546
+The minimum is attained in round 871
+The minimum is attained in round 283
+The minimum is attained in round 456
+The minimum is attained in round 617
+acc result is 0.20765,0.21055000000000001,0.20340000000000003,0.20650000000000002,0.21055000000000001
+change_param is colsample_bytree, change_value is 1
+time spend is 686336
+The minimum is attained in round 953
+The minimum is attained in round 947
+The minimum is attained in round 823
+The minimum is attained in round 611
+The minimum is attained in round 639
+acc result is 0.20865,0.20779999999999998,0.20245000000000002,0.20584999999999998,0.2087
+change_param is sample_type, change_value is uniform
+time spend is 288517
+The minimum is attained in round 953
+The minimum is attained in round 947
+The minimum is attained in round 823
+The minimum is attained in round 611
+The minimum is attained in round 639
+acc result is 0.20865,0.20779999999999998,0.20245000000000002,0.20584999999999998,0.2087
+change_param is sample_type, change_value is weighted
+time spend is 644658
+The minimum is attained in round 953
+The minimum is attained in round 947
+The minimum is attained in round 823
+The minimum is attained in round 611
+The minimum is attained in round 639
+acc result is 0.20865,0.20779999999999998,0.20245000000000002,0.20584999999999998,0.2087
+change_param is min_child_weight, change_value is 0
+time spend is 574026
+The minimum is attained in round 823
+The minimum is attained in round 563
+The minimum is attained in round 1212
+The minimum is attained in round 1029
+The minimum is attained in round 628
+acc result is 0.20725000000000005,0.21025000000000005,0.20404999999999995,0.20630000000000004,0.20820000000000005
+change_param is min_child_weight, change_value is 5
+time spend is 263393
+The minimum is attained in round 1001
+The minimum is attained in round 552
+The minimum is attained in round 1998
+The minimum is attained in round 597
+The minimum is attained in round 522
+acc result is 0.20884999999999998,0.2096,0.20425000000000004,0.20789999999999997,0.20930000000000004
+change_param is min_child_weight, change_value is 10
+time spend is 761866
+The minimum is attained in round 859
+The minimum is attained in round 733
+The minimum is attained in round 621
+The minimum is attained in round 234
+The minimum is attained in round 678
+acc result is 0.20920000000000005,0.2087,0.20340000000000003,0.20825000000000005,0.20925000000000005
+change_param is min_child_weight, change_value is 15
+time spend is 755193

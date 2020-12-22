@@ -1,0 +1,5 @@
+The best value for eta is 0.09, the acc is 0.21501.
+The best value for max_depth is 7, the acc is 0.21478999999999998.
+The best value for num_leaves is 96, the acc is 0.2104.
+The best value for feature_fraction is 0.8, the acc is 0.2104.
+The best value for bagging_fraction is 0.8, the acc is 0.2104.

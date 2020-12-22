@@ -1,0 +1,3 @@
+The best value for eta is 0.09, the acc is 0.22985000000000003.
+The best value for learning_rate is 0.1, the acc is 0.20629.
+The best value for max_depth is 7, the acc is 0.20629.
